@@ -1,0 +1,160 @@
+body {
+    font-family: cursive;
+    background-color: #C3FF93;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    text-align: center;
+    width: 100%;
+}
+
+.subheader {
+    display: inherit;
+    flex-direction: row;
+    text-align: center;
+    align-self: center;
+    width: 100%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.columnHeader {
+    width: 50%;
+    text-align: justify;
+    align-self: center;
+    margin-left: 15%;
+}
+
+.columnPhoto {
+    border-radius: 100%;
+}
+
+.photo {
+    border-radius: 100%;
+}
+
+a {
+    color: rgb(8, 115, 103);
+    text-decoration: none;
+}
+
+img,
+span {
+    vertical-align: middle;
+}
+
+#content {
+    padding: 2%;
+}
+
+.row {
+    display: table-row;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.contactList {
+    list-style: none;
+}
+
+.contactList img {
+    width: 5%;
+}
+
+.menu {
+    margin-top: 2%;
+    align-self: center;
+    padding: 1%;
+    flex-wrap: wrap;
+}
+
+.btn {
+    border-radius: 5px;
+    background-color: #FFDB5C;
+    color: #FF70AB;
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color: #ffdc5c71;
+    color: #d73c7c;
+}
+
+
+.menu-item {
+    /* float: left; */
+    padding: 20px;
+}
+
+.card {
+    border-radius: 15px;
+    border-color: #FFDB5C;
+    border-style: solid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.about {
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: justify;
+}
+
+.title-company {
+    display: flex;
+}
+
+.title-company h2,
+.title-company h3,
+.study h2,
+.study h3 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.title-company img,
+.study img {
+    margin-right: 1%;
+    width: 10%;
+    height: 10%;
+    align-self: center;
+}
+
+.title-company h3,
+h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.subtitle-company {
+    width: 100%;
+    margin-left: 0.2%;
+}
+
+.skills-item {
+    background-color: #5e5b5b54;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    width: fit-content;
+    padding: 3px;
+    display: inline-block;
+    margin-right: 1%;
+    margin-top: 5px;
+}
+
+.study {
+    margin-right: 1%;
+    width: 50%;
+    padding-left: 1em;
+}

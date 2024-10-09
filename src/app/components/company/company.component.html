@@ -1,0 +1,25 @@
+<div class="card">
+    <div class="title-company">
+        <img ngSrc="{{company.logo}}" width="10"
+            height="10">
+        <div class="subtitle-company">
+            <h2>{{company.position}}</h2>
+            <h3>{{company.company}}</h3>
+            <h4>{{company.period}}</h4>
+            @for (skill of company.knowledge; track skill) {
+            <div class="skills-item">
+                #{{skill}}
+            </div>
+            }
+        </div>
+    </div>
+    <div class="tasks">
+        <ul>
+            @for (task of company.tasks; track task) {
+            <li>
+                {{task}}
+            </li>
+            }
+        </ul>
+    </div>
+</div>
