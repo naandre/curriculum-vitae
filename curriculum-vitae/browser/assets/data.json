@@ -1,0 +1,109 @@
+{
+    "curriculum": {
+        "name": "Natalia Andrea Caballero Montes",
+        "contact": {
+            "phone": "+34 677 23 92 51",
+            "email": "nataliac.desarrollopersonal@gmail.com",
+            "linkedIn_Url": "https://www.linkedin.com/in/programmernacab"
+        },
+        "languages": [
+            {
+                "language": "English",
+                "level": "B1"
+            },
+            {
+                "language": "Spanish",
+                "level": "B2"
+            }
+        ],
+        "about": "<p>Telecommunications Engineer with 9+ years of experience in .NET software development, spanning from classic versions to the latest innovations in .NET Core. I have worked on a wide range of projects, from monolithic applications to microservices and microfrontend architectures, utilizing technologies like Angular. My experience extends to both on-premise and multi-cloud environments (AWS and Azure). <br> <br> I have worked in agile environments, primarily using Scrum, to deliver value incrementally and adapt to changing business requirements. I am proficient in handling various relational databases such as SQL Server, Oracle, and DB2, as well as NoSQL databases like MongoDB. This combination of skills enables me to design and develop robust, scalable solutions that meet the needs of our clients.</p>",
+        "experience": [
+            {
+                "company": "Esource Capital",
+                "period": "2023-Current",
+                "position": "Senior Programmer",
+                "logo": "../../assets/img/logoEsource.jpg",
+                "knowledge": [
+                    "Angular",
+                    "React",
+                    "React Native",
+                    "AppSheet",
+                    "GCP",
+                    "Scrum",
+                    "AppScript"
+                ],
+                "tasks": [
+                    "Developing applications with React Native and integrating them with backend services.",
+                    "Skilled in utilizing low-code platforms such as AppSheet to rapidly develop custom applications, harnessing AI capabilities to streamline development.",
+                    "Optimizing the performance of Angular applications.",
+                    "Proven ability to thrive in fast-paced agile environments, contributing to cross-functional teams using Scrum methodologies."
+                ]
+            },
+            {
+                "company": "SoftwareOne Colombia",
+                "period": "2019-2023",
+                "position": "Senior Development Enginner",
+                "logo": "../../assets/img/logoSoftwareOne.jpg",
+                "knowledge": [
+                    "Angular",
+                    ".Net",
+                    "ASP .Net",
+                    ".Net Core",
+                    "Java",
+                    "Azure Logic Apps",
+                    "Azure Functions",
+                    "Azure Data Factory",
+                    "Azure Logic Apps",
+                    "AWS Lambda Functions",
+                    "AWS Glue",
+                    "Micro Services",
+                    "Micro FrontEnd",
+                    "API Rest",
+                    "Reporting Services",
+                    "Scrum",
+                    "Redux",
+                    "Web Forms",
+                    "MVC",
+                    "SQL",
+                    "DB2"
+                ],
+                "tasks": [
+                    "Develop multi-cloud data pipelines using Azure Data Factory, AWS Glue, and other tools to extract, process, and analyze data for generating reports that support key business metrics",
+                    "Refactor legacy applications using modern technologies like Angular, implementing architectures that support microservices and micro frontends to separate responsibilities",
+                    "Modernize legacy applications built on WCF and ASP.NET Web Forms using reverse engineering techniques to ensure long-term maintainability and scalability",
+                    "Follow agile methodologies like Scrum to develop projects and implement clean coding practices using tools like SonarQube"
+                ]
+            }
+        ],
+        "studies": [
+            {
+                "title": "Telematics Engineering",
+                "institute": "Francisco José de Caldas District University",
+                "period": "2017-2021",
+                "logo": "../../assets/img/logoDistri.png"
+            },
+            {
+                "title": "Technology in Data Systematization",
+                "institute": "Francisco José de Caldas District University",
+                "period": "2010-2015",
+                "logo": "../../assets/img/logoDistri.png"
+            }
+        ],
+        "certificates": [
+            {
+                "name": "Google Cloud Certified: Professional Cloud Developer",
+                "entity": "Google",
+                "url_badge": "https://www.credential.net/8c3229f1-55e8-4ef7-985f-f01d1910ed98",
+                "date": "23/01/2023",
+                "logo": "https://templates.images.credential.net/16590186916130985573582077414553.png"
+            },
+            {
+                "name": "Course: Microservices with ASP .NET 5, Angular, MongoDB, Docker",
+                "entity": "Udemy",
+                "url_badge": "https://www.udemy.com/certificate/UC-5d7935ee-31f5-41ef-9505-fd69def854ce/",
+                "date": "1/12/2021",
+                "logo": "https://img-c.udemycdn.com/course/240x135/3582569_f5a6_6.jpg"
+            }
+        ]
+    }
+}
