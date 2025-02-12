@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:Curriculum-Vitae": "node dist/curriculum-vitae/server/server.mjs"
+    "serve:ssr:Curriculum-Vitae": "node dist/curriculum-vitae/server/server.mjs",
+    "publish": "ngh --dir=dist --no-silent"
   },
   "private": true,
   "dependencies": {
