@@ -22,7 +22,7 @@
                 "company": "Esource Capital",
                 "period": "2023-Current",
                 "position": "Senior Programmer",
-                "logo": "../../assets/img/logoEsource.jpg",
+                "logo": "/assets/img/logoEsource.jpg",
                 "knowledge": [
                     "Angular",
                     "React",
@@ -43,7 +43,7 @@
                 "company": "SoftwareOne Colombia",
                 "period": "2019-2023",
                 "position": "Senior Development Enginner",
-                "logo": "../../assets/img/logoSoftwareOne.jpg",
+                "logo": "/assets/img/logoSoftwareOne.jpg",
                 "knowledge": [
                     "Angular",
                     ".Net",
@@ -80,13 +80,13 @@
                 "title": "Telematics Engineering",
                 "institute": "Francisco José de Caldas District University",
                 "period": "2017-2021",
-                "logo": "../../assets/img/logoDistri.png"
+                "logo": "/assets/img/logoDistri.png"
             },
             {
                 "title": "Technology in Data Systematization",
                 "institute": "Francisco José de Caldas District University",
                 "period": "2010-2015",
-                "logo": "../../assets/img/logoDistri.png"
+                "logo": "/assets/img/logoDistri.png"
             }
         ],
         "certificates": [
