@@ -7,7 +7,7 @@ import { Curriculum } from '../interfaces/curriculum';
     providedIn: 'root',
 })
 export class CurriculumService {
-    private url = '../../assets/data.json';
+    private url = '/assets/data.json';
     httpOptions = {
         headers: new HttpHeaders({ 'Content-Type': 'application/json' })
     };
